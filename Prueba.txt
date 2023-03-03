@@ -1,8 +1,8 @@
 probando
 Cambio desde web github
-<<<<<<< HEAD
+
 
 Cambio desde el local
-=======
+
 Segunda modificacion
->>>>>>> 3c34e6c85086fb9558f720910732b925aa69606c
+
