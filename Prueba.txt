@@ -6,4 +6,8 @@ Cambio desde el local
 
 Segunda modificacion
 
+<<<<<<< HEAD
 Modifico por tercera vez desde el local
+=======
+Modifico desde la web, remotamente
+>>>>>>> 8f9159015ee1f9f8313cc7504ab60eb71c588f9d
